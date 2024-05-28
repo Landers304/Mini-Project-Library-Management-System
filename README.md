@@ -37,7 +37,7 @@ Represents individual books with attributes:
 - Publication Date
 - Availability Status
 
-### FictionBook and NonFictionBook
+### Fiction Book and Non-Fiction Book
 Inherits from the `Book` class and represents specialized book categories.
 
 ### User
@@ -55,10 +55,3 @@ Represents book authors with attributes:
 Represents book genres with attributes:
 - Name
 - Description
-
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-
-  
